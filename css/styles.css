@@ -54,6 +54,11 @@ p{
 .symptom-box{
   margin: 0 auto;
   width: 80%;
+  text-align: center;
+}
+
+.symptom-box-mini{
+  padding: 30px 0;
 }
 
 .symptom-pic-container{
@@ -61,9 +66,9 @@ p{
 }
 
 .symptom-image{
-  width: 180px;
+  width: 150px;
 }
 
-.symptom-text-box{
-  text-align: justify;
+.symptom-box-text{
+  margin: auto 0;
 }
