@@ -1,0 +1,64 @@
+#title{
+  background-color: #856CBB;
+}
+
+/* Navbar */
+.navcss{
+
+  margin: 0 auto 5%;
+}
+
+.nav-text{
+  font-family: 'Righteous', cursive;
+}
+
+/* Title */
+.title{
+  color: #fff;
+  width: 80%;
+  margin: 30px auto;
+  padding-bottom: 5%;
+}
+
+.title-text{
+  padding: 10% 0;
+  text-align: justify;
+}
+
+.title-pic-container{
+  text-align: center;
+  margin: auto 0;
+}
+
+.title-pic{
+  width: 70%;
+  color: #fff;
+
+}
+
+h1{
+  font-family: 'Righteous', cursive;
+}
+
+p{
+  font-family: 'Baloo Paaji 2', cursive;
+  font-size: 1.5rem;
+}
+
+/* Symptoms */
+.symptom-box{
+  margin: 0 auto;
+  width: 80%;
+}
+
+.symptom-pic-container{
+  margin: auto 0;
+}
+
+.symptom-image{
+  width: 180px;
+}
+
+.symptom-text-box{
+  text-align: right;
+}
