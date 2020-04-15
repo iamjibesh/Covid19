@@ -59,7 +59,7 @@ p{
 }
 
 .symptom-row{
-  padding: 3%;
+  padding: 10%;
 }
 
 h3{
@@ -76,6 +76,7 @@ h3{
 
 .symptom-text{
   padding: 2% 0;
+  text-align: justify;
 }
 
 /* Links */
@@ -109,16 +110,18 @@ h3{
 
 /* How to protect yourself page */
 .protect-body{
-  text-align: center;
+
 }
 
 #measures{
   background-color: #856CBB;
   color: #fff;
+  padding-bottom: 5%;
 }
 
 .measures-heading{
-  padding-top: 5%;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 
 .measures-img{
@@ -128,6 +131,7 @@ h3{
 .measures{
   width: 80%;
   margin: 0 auto;
+  text-align: center;
 }
 
 .row-box{
