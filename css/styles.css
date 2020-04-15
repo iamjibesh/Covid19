@@ -77,3 +77,31 @@ h3{
 .symptom-text{
   padding: 2% 0;
 }
+
+/* Links */
+#links{
+  background-color: #A4C5C6;
+}
+.link-box{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 5% 0;
+}
+
+.link-heading{
+  padding: 3%;
+}
+
+.switch{
+  margin: 3%;
+}
+
+/* Footer */
+#footer{
+  text-align: center;
+}
+
+.footer-text{
+  padding: 5% 0 1%;
+}
