@@ -49,7 +49,7 @@ p{
 /* Symptoms */
 
 #symptoms{
-  margin: 7% 0;
+  margin: 10% 0;
 }
 
 .symptom-box{
@@ -104,4 +104,39 @@ h3{
 
 .footer-text{
   padding: 5% 0 1%;
+}
+
+
+/* How to protect yourself page */
+.protect-body{
+  text-align: center;
+}
+
+#measures{
+  background-color: #856CBB;
+  color: #fff;
+}
+
+.measures-heading{
+  padding-top: 5%;
+}
+
+.measures-img{
+  width: 30%;
+}
+
+.measures{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.row-box{
+  padding: 5%;
+}
+
+row-heading{
+
+}
+.col-con{
+  text-align: center;
 }
