@@ -51,24 +51,21 @@ p{
 #symptoms{
   margin: 7% 0;
 }
+
 .symptom-box{
-  margin: 0 auto;
   width: 80%;
+  margin: 7% auto;
   text-align: center;
 }
 
-.symptom-box-mini{
-  padding: 30px 0;
+.symptom-row{
+  padding: 3%;
 }
 
-.symptom-pic-container{
-  margin: auto 0;
+.symptom-img{
+  width: 30%;
 }
 
-.symptom-image{
-  width: 150px;
-}
-
-.symptom-box-text{
+.symptom-col{
   margin: auto 0;
 }
