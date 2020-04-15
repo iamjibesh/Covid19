@@ -62,10 +62,18 @@ p{
   padding: 3%;
 }
 
+h3{
+  font-family: 'Baloo Paaji 2', cursive;
+}
+
 .symptom-img{
   width: 30%;
 }
 
 .symptom-col{
   margin: auto 0;
+}
+
+.symptom-text{
+  padding: 2% 0;
 }
